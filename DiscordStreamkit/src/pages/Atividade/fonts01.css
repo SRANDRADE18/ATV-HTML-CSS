@@ -1,0 +1,29 @@
+@font-face {
+    font-family:'Font1' ;
+    src: url('../../assets/fonts/Font1.woff2');
+}
+
+@font-face {
+    font-family:'Font2' ;
+    src: url('../../assets/fonts/Font2.woff2');
+}
+
+@font-face {
+    font-family:'Font3' ;
+    src: url('../../assets/fonts/Font3.woff2');
+}
+
+@font-face {
+    font-family:'Font4' ;
+    src: url('../src/assets/fonts/Font4.woff2');
+}
+
+@font-face {
+    font-family:'Font5' ;
+    src: url('../../assets/fonts/Font5.woff2');
+}
+
+@font-face {
+    font-family:'Font6' ;
+    src: url('../../assets/fonts/Font6.woff2');
+}

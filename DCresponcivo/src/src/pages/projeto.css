@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.bloco1{
+    display: flex;
+    margin-top: 200px;
+}
+
+.bloco2{
+    display: flex;
+    flex-direction: row;
+
+}
+.bloco3{
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+}
+.bloco3 p {
+   font: 45px 'font6';
+   
+}
+.bloco3 h1{
+    font: 20px 'font1';
+}
+
+@media ( max-width: 700px) {
+    .bloco2 {
+
+        flex-direction: column;
+    }
+   
+}

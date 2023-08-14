@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.mae{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+.bloco1{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 150px 150px ;
+    justify-content: space-between; 
+    width: 80vw;
+}
+.bloco2 {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 150px 150px ;
+    justify-content: space-between;
+    width: 80vw;
+}
+
+.vantagens  {
+    font: 50px 'font4';
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 110px;
+}
+.forte {
+    width: 400px;
+    font: 24px 'font3';
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    line-height: 30px;
+}
+button {
+    border-radius: 20px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
