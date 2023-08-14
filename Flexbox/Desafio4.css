@@ -1,0 +1,50 @@
+
+.grupo {
+    background-color: cyan;
+    padding: 10px;
+    height: 200px;
+    text-align: end;
+
+}
+.grupo div {
+    background-color: black;
+    margin: 10px;
+    width: 22vh;
+    height: 150px;
+    display: inline-block;
+    color: antiquewhite;
+    padding: 10px;
+}
+
+.meio {
+    background-color: rgb(251, 5, 5);
+    height: 30vh;
+
+}
+
+.final {
+    background-color: rgb(0, 26, 255);
+    padding: 10px;
+    height: 190px;
+    text-align: end;
+}
+
+.inicio div {
+    background-color: black;
+    margin: 30px;
+    display: inline-block;
+    color: antiquewhite;
+    padding: 10px;
+    width: 25vh;
+    height: 120px;
+}
+
+.meio div {
+    background-color: black;
+    margin: 10px;
+    display: inline-block;
+    color: antiquewhite;
+    padding: 25px;
+    width: 25vh;
+    height: 120px;
+}

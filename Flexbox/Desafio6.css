@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.Mae{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inicio{
+    height: 13vh;
+    width: 45vw;
+    background-color: #86AFD4;
+}
+
+.meio{
+    height: 74vh;
+    width: 45vw;
+    background-color: #71D0BC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo{
+    height: 58vh;
+    width: 38vw;
+    background-color: #547C74;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+
+
+.meio02{
+    background-color: #B6C7C4;
+    height: 38vh;
+    width: 35vw;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.meio02 div{
+    height: 4vh;
+    width: 33vw;  
+    background-color: #717977;
+    margin: 5px;
+}
+
+#batata{
+    height: 28vh;
+    width: 33vw;  
+}
+
+.fim{
+    background-color: #B6C7C4;
+    height: 6vh;
+    padding: 10px;
+    width: 35vw;
+    margin: 10px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    
+}
+
+.fim div{
+    height: 30px;
+    width: 40px;
+    background-color: #717977;
+    margin: 5;
+}
+
+
+
+.rodape{
+    height: 13vh;
+    width: 100vw;
+    background-color: #C0E39A;
+}
+
+.cabecalho{
+    background-color: #B6C7C4;
+    height: 6vh;
+    width: 35vw;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.quadrados{
+    height: 30px;
+    width: 40px;
+    background-color: #717977;
+    margin: 5px;
+}
+
+.linhas{
+    height: 35px;
+    width: 550px;
+    background-color: #B6C7C4;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.linhas div{
+    height: 15px;
+    width: 180px;
+    background-color: #717977;
+    margin: 5px;
+}
+

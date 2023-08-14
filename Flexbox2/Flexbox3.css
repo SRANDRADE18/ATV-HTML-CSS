@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mae {
+   background-color:aqua ;
+   height: 650px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.box div {
+    background-color:darkorchid;
+    height: 400px;
+    width: 400px;
+    display: inline-block;
+    margin: 25;
+
+}

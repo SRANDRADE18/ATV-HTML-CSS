@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.cabecalho{
+    background-color: aqua;
+    height: 90%;
+}
+
+.box1{
+    display: flex;
+    flex-direction: column;
+    display: inline-block;
+}
+.box2{
+    display: flex;
+    margin: 10px;
+    
+}
+.roxo01 div {
+    background-color: blueviolet;
+    height: 145px;
+    width: 180px;
+    margin: 0px 12px 10px;
+}
+.verde{
+    background-color: green;
+    height: 300px;
+    width: 180px;
+    margin: 0px 12px;
+}
+.roxo02 div {
+    background-color: blueviolet;
+    height: 145px;
+    width: 180px;
+    margin: 0px 12px 10px;
+}
+.verde02{
+    background-color: green;
+    height: 300px;
+    width: 180px;
+    margin: 0px 12px;
+}
+.preto{
+    background-color: #000;
+    height: 500px;
+    width: 200px;
+    margin: 0px 12px;
+}
+#teste{
+    background-color: blueviolet !important;
+    height: 300px !important;
+    width: 250px !important;
+    margin: 0px 12px 10px;
+}
+.verde03{
+    background-color: green !important;
+    height: 190px !important;
+    width: 250px !important;
+    margin: 0px 12px;
+}
+.preto02 div{
+    background-color: #000 !important;
+    height: 90px !important ;
+    width: 780px !important;
+    margin: 12px !important;
+}

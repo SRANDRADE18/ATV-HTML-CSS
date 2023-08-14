@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.Mae{
+    display: flex;
+    flex-direction: column;
+}
+
+.inicio{
+     background-color:aqua ;
+     height: 50vh;
+     width: 100%;
+}
+
+.blocopreto{
+    display: flex;
+    flex-direction: row;
+    background-color:rgb(0, 0, 0) ;
+    height: 50vh;
+    width: 100%;
+    padding: 2;
+}
+
+.meio{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.meio div{
+    background-color:rgb(255, 255, 255) ;
+    height: 20px;
+    width: 580px;
+    margin: 12px;
+
+}
+
+.centro{
+    background-color:rgb(0, 0, 0) ;
+    height: 50vh;
+    width: 90vw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.centro div{
+    background-color:rgb(255, 255, 255) ;
+    height: 20px;
+    width: 580px;
+    margin: 12px;
+}
+
+.fim{
+    background-color:rgb(0, 0, 0) ;
+    height: 50vh;
+    width: 90vw;
+    padding: 2;
+   display: flex;
+   justify-content: flex-start;
+   align-items: flex-start;
+   flex-direction: column;
+}
+
+.fim div{
+    background-color:rgb(255, 255, 255) ;
+    height: 20px;
+    width: 580px;
+    margin: 10px;
+}
+

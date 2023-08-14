@@ -1,0 +1,37 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.mae {
+  height: 60vh;
+  display: flex ;
+  flex-direction: row;
+}
+
+
+.inicio {
+  background-color:black;
+  height: 10vw;
+
+}
+
+.quadrado1 {
+  background-color: brown;
+  height: 70vh; 
+  width: 24vh;
+  flex-grow: 1;
+
+}
+.quadrado2 {
+  background-color: yellow;
+  height: 70vh;
+  width: 10vw;
+  flex-grow: 1;
+}
+
+.final {
+  background-color: dodgerblue;
+  height: 30vh;
+
+}

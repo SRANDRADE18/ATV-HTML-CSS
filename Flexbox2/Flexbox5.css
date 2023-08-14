@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.secao1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.cabecalho {
+    height: 30vh;
+    background-color: rgb(35, 185, 185)  ;
+}
+
+.meio {
+    display: flex;
+    flex-direction: row;
+    height: 40vh;
+    background-color: rgb(11, 255, 31);
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.subcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+    width: 350px;
+    background-color: blueviolet;
+}
+
+.subcontainer div {
+    margin: 50px;
+    height: 100px;
+    width: 180px;
+    background-color: yellowgreen;
+}
+
+#quadrado-menor { 
+    height: 50px;
+    width: 250px;
+}
+
+.rodape {
+    height: 30vh;
+    background-color: rgb(248, 232, 2);
+}

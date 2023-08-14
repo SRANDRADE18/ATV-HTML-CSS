@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.mae {
+   background-color:aqua ;
+   height: 950px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.box {
+    background-color:darkorchid;
+    height: 440px;
+    width: 440px;
+    margin: 30;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+.inicio {
+    margin: 10 ;
+    background-color: honeydew ;
+    height: 40px;
+}
+
+#meio02 div {
+    margin: 10 ;
+    background-color: honeydew ;
+    height: 40px;
+    width: 250px;
+    display: flex;
+}
+
+#meio02{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.centropreto div{
+    margin: 8 ;
+    background-color:black ;
+    height: 40px;
+    width: 90px;
+}
+
+.centropreto{
+    display: flex;
+    justify-content: center;
+}
+
+.fim{
+    margin: 10 ;
+    background-color: honeydew ;
+    height: 40px;
+}

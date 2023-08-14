@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    box-sizing:border-box;
+    
+}
+
+.inicio {
+    background-color: black;
+    height: 12vh;
+}
+
+.centro {
+    background-color:rgb(255, 243, 10);
+    height: 76vh;
+    width: 70vw;
+    float:right
+}
+
+.meio {
+    background-color:blue;
+    height: 75vh;
+    
+}
+
+.final {
+    background-color:rgb(0, 255, 42);
+    height: 15vh;
+}
